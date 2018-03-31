@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 Git has a mutuable index called stage.
 Git tracked changes.
 1 change
+2 change
