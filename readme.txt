@@ -6,4 +6,4 @@ Git tracked changes.
 1 change
 2 change
 3 change
-4 change(just a try)
+Creating a new branch is quick AND simple.
